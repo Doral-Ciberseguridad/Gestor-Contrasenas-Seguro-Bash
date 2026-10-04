@@ -22,7 +22,7 @@
 
 # Imprimo el titulo de mi programa.
 echo ""
-echo "########## GESTOR DE CONTRASEÑAS (BASH) ##########"
+echo "########## GESTOR DE CONTRASEÑAS (BASH LINUX) ##########"
 
 # Actualizo los paquetes del sistema e instalo una herramienta para generar contraseñas.
 echo ""
