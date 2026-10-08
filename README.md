@@ -32,4 +32,3 @@ sudo apt update && sudo apt install pwgen
 <img width="642" height="338" alt="image" src="https://github.com/user-attachments/assets/e69377d7-6a25-45e2-af4f-4c3fa567e702" />
 
 
-
